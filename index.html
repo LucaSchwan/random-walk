@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RandomWalk</title>
+
+    <style>
+        #canvas {
+            border: 1px solid black;
+        }
+
+        
+    </style>
+
+</head>
+<body>
+    <form>
+        Kettengliedlänge:
+        <input type="text" name="" id="Kettengliedlänge" value="0">
+        Kettengliedanzahl:
+        <input type="text" name="" id="Kettenglieder" value="0">
+        <input type="button" value="Random Walk simulieren" onclick="randomWalk();">
+        <input type="button" value="Reset" onclick="window.location.reload();"
+        
+    </form>
+    
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <script src="src/RandomWalk.js"></script>
+</body>
+</html>
