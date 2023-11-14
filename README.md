@@ -6,4 +6,4 @@ The visualisation can be viewed here:
 
 It is written with plain HTML, CSS, and Javascript.
 
-[Random Walk](https://random-walkls.herokuapp.com/)
+[Random Walk](https://lucaschwan.github.io/random-walk/)
