@@ -4,4 +4,6 @@ This website visualizes the concept of the Random Walk describing an ideal chain
 
 The visualisation can be viewed here:
 
+It is written with plain HTML, CSS, and Javascript.
+
 [Random Walk](https://random-walkls.herokuapp.com/)
